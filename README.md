@@ -102,7 +102,7 @@ This dashboard helps organizations:
 
 
 ## 📂 File
-
+Power BI File: https://github.com/Naveen715643/Enterprise-Operations-Analytics-PowerBI/blob/main/Enterprise%20Operations.pbit
 
 ## 🧩 Skills Demonstrated
 
