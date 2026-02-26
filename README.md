@@ -78,7 +78,7 @@ The dashboard supports operational and management teams by providing:
 ---
 
 ## 📷 Dashboard Preview
-
+ Dashboard Preview Screenshots : https://github.com/Naveen715643/Enterprise-Operations-Analytics-PowerBI/tree/main/Enterprise%20Operations
 
 
 
